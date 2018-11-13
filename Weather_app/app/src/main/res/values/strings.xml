@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="user_input">Enter a city name</string>
+    <string name="get_weather">GET WEATHER</string>
+    <string name="refresh_msg">REFRESH</string>
+</resources>
